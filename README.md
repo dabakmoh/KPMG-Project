@@ -36,5 +36,4 @@ Key questions addressed during the presentation included:
 - What marketing and growth strategy should Sprocket Central Pty Ltd consider?
 - What additional external datasets could enhance our understanding of customer preferences and purchase propensity?
 
-**Source:**
-[Dashboard]()
+[Dashboard](https://github.com/dabakmoh/KPMG-Project/blob/main/kpmg-.pbix)
